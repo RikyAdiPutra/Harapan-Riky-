@@ -1,0 +1,20 @@
+Harapan Riky Adi Putra Di Tahun 2023
+
+* Codepolitan
+- Bisa Git, Github Dan Sejenisnya
+- Paham konsep css
+- Paham cara menggunakan framework bootstrap
+- Paham konsep javascript dasar
+- Paham konsep javascript dom
+- Paham konsep nested if
+- Paham konsep nested array
+- Paham konsep nested objek
+- Paham konsep nested for
+- Paham konsep perulangan do while
+- Paham konsep perulangan for off
+- Paham konsep perulangan for in
+
+* Dicoding Indonesia
+- Menyelesaikan kelas Aws
+- Menyelesaikan kelas pemogramman javascript
+- Menyelesaikan kelas aplikasi backend pemula
